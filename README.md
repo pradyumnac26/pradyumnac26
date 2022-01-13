@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 - Feel Free to contact me regarding any projects or help/contributions for any project.
   
-  **Languages and Tools:**  
+  **Languages and Tools :**  
 
 
   <img alt="Angular Beginner" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -41,7 +41,8 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="25" />
  
   
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs">
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
   
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/pradyumna-c-a652b117a/)
+
 [<img src="https://user-images.githubusercontent.com/36606431/115982693-a83cf780-a5ba-11eb-9b9e-3633f9366761.png" width="30px">](https://www.instagram.com/im_praddy/)
+
 Mail me at - cpradyumna1234@gmail.com
   
