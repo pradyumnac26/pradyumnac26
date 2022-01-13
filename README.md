@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 - Feel Free to contact me regarding any projects or help/contributions for any project.
   
-  **Languages and Tools :**  
+**Languages and Tools :**  
 
   <p>
   <img alt="Angular Beginner" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -35,8 +35,9 @@ Here are some ideas to get you started:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="C++" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Nv0XNyegzB0AvP-uFh4_A76FVuPg8t2g5g&usqp=CAU" width="25" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JUWCn2AMo388LKpfYlmEyBf_4gpBnVCx2EQhtjXaWj5Gc00gEsXJhffAg56LQIeJpbw&usqp=CAU" width="25" />
   <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="25" />
+  <img alt="React" src="https://en.wikipedia.org/wiki/React_(JavaScript_library)#/media/File:React-icon.svg" width="25" /> 
+  <img alt="React" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8Na0216CbEdM44bhw12XQijoBW9V49KgftYWomtdvrt8YxnFFi23rKqpfZ8IRcUKY38&usqp=CAU" width="25" />
   </p>
   
   <br/>
@@ -46,8 +47,7 @@ Here are some ideas to get you started:
   
   
   
-  
-  ### How to Reach me : 📫
+### How to Reach me : 📫
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/pradyumna-c-a652b117a/)
