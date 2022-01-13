@@ -40,8 +40,7 @@ Here are some ideas to get you started:
   <img alt="C#" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8Na0216CbEdM44bhw12XQijoBW9V49KgftYWomtdvrt8YxnFFi23rKqpfZ8IRcUKY38&usqp=CAU" width="30" />
   </p>
   
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
   
   
