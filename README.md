@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> Welcome to my Page <p>
+<p> Welcome to my Page </p>
   <br>
   - 🔭 I am currently working as a Software Engineer in [Societe Generale Global Solutions Center, Bangalore](https://www.societegenerale.asia/en/)
   - 🎓 I have graduated B.Tech from [RV College Of Engineering, Bengaluru](https://www.rvce.edu.in/) in the domain of Electronics and Communication Engineering in 2021.
