@@ -34,15 +34,12 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="C++" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Nv0XNyegzB0AvP-uFh4_A76FVuPg8t2g5g&usqp=CAU" width="25" />
-
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  
   <img alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JUWCn2AMo388LKpfYlmEyBf_4gpBnVCx2EQhtjXaWj5Gc00gEsXJhffAg56LQIeJpbw&usqp=CAU" width="25" />
   <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="25" />
- 
+  
   
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs">
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
   
@@ -53,7 +50,6 @@ Here are some ideas to get you started:
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/pradyumna-c-a652b117a/)
-
 [<img src="https://user-images.githubusercontent.com/36606431/115982693-a83cf780-a5ba-11eb-9b9e-3633f9366761.png" width="30px">](https://www.instagram.com/im_praddy/)
 
 Mail me at - cpradyumna1234@gmail.com
