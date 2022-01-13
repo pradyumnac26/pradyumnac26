@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Nv0XNyegzB0AvP-uFh4_A76FVuPg8t2g5g&usqp=CAU" width="25" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="25" />
-  <img alt="React" src="https://en.wikipedia.org/wiki/React_(JavaScript_library)#/media/File:React-icon.svg" width="25" /> 
-  <img alt="React" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8Na0216CbEdM44bhw12XQijoBW9V49KgftYWomtdvrt8YxnFFi23rKqpfZ8IRcUKY38&usqp=CAU" width="25" />
+  <img alt="React" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRao71aypm3fhKKbyl7eEG7Mk_lOeWDGCYliwkXsoZRuKhoVIhv3PesR9ms03fvOX3tAKI&usqp=CAU" width="25" /> 
+  <img alt="C#" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8Na0216CbEdM44bhw12XQijoBW9V49KgftYWomtdvrt8YxnFFi23rKqpfZ8IRcUKY38&usqp=CAU" width="25" />
   </p>
   
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs">
