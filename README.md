@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
   **Languages and Tools :**  
 
-
+  <p>
   <img alt="Angular Beginner" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -37,8 +37,9 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JUWCn2AMo388LKpfYlmEyBf_4gpBnVCx2EQhtjXaWj5Gc00gEsXJhffAg56LQIeJpbw&usqp=CAU" width="25" />
   <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="25" />
+  </p>
   
-  
+  <br/>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
