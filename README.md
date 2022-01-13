@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
   <br/>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&theme=buefy&hide_border=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
   
   
