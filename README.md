@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 😄 My Goal for 2022 is to start One coding qn a day challenege and complete 365+ problem from [LeetCode](https://leetcode.com/)/[GFG](https://www.geeksforgeeks.org/)/[Hackerrank](https://www.hackerrank.com/) .
  
 - Feel Free to contact me regarding any projects or help/contributions for any project.
+
+<hr>
   
 **Languages and Tools :**  
 
@@ -40,6 +42,8 @@ Here are some ideas to get you started:
   <img alt="C#" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8Na0216CbEdM44bhw12XQijoBW9V49KgftYWomtdvrt8YxnFFi23rKqpfZ8IRcUKY38&usqp=CAU" height="20" width="25"   />
   </p>
   
+  <hr>
+  
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&hide_border=true&theme=buefy&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
   <!--  PROFILES VIEWS -->
@@ -51,6 +55,7 @@ Here are some ideas to get you started:
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pradyumnac26&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
   
+  <hr>
   
 ### How to Reach me : 📫
 
