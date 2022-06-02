@@ -42,7 +42,14 @@ Here are some ideas to get you started:
   
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=pradyumnac26&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515&hide=contribs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnac26&layout=compact&hide_border=true&theme=buefy&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515" >
   
-  
+  <!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+
+ <hr>
+ 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
   
   
 ### How to Reach me : 📫
