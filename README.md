@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
   <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/pradyumnac26/count.svg?align=center)
 
  <hr>
  
