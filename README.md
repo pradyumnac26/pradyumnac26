@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p> Welcome to my Page </p>
 
-- 🔭 I am currently pursuing Masters in Computer Science from the University of Colorado, Boulder.
+- 🔭 I am currently pursuing Masters in Computer Science from the University of Colorado, Boulder and will be graduating in May 2025.
 
 - Have worked for 2 years as a Software Engineer in Societe Generale Banking and Investement Company in the Front Office, Forex team.
 
