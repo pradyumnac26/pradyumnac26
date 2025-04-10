@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pradyumnac26&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=pradyumnac26)](https://git.io/streak-stats)
   
   <hr>
   
