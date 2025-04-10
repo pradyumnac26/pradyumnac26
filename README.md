@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://streak-stats.demolab.com/?user=pradyumnac26)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=pradyumnac26)](https://git.io/streak-stats)
   
   <hr>
   
