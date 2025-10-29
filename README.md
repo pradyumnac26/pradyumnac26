@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 - 🔭 I graduated Masters in Computer Science from the University of Colorado Boulder and am currently looking out for jobs.
 
-- Have worked for 2 years as a Software Engineer in Societe Generale Banking and Investement Company in the Front Office, Forex team.
+- Have worked for 2+ years as a Software Engineer in Societe Generale Banking and Investement Company in the Front Office, Forex team.
 
 - 🎓 I have graduated B.Tech from [RV College Of Engineering, Bengaluru](https://www.rvce.edu.in/) in the domain of Electronics and Communication Engineering in 2021.
 
 - 😍 My domain of interest lies in the field of Full Stack Development.
+  
+- My Website - https://pradyumnachippigiri.dev/
  
 - Feel Free to contact me regarding any projects or help/contributions for any project.
 
