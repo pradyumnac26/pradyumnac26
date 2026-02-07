@@ -103,6 +103,6 @@
 
 ---
 
-✨ *"Engineering scalable systems at the intersection of AI, distributed computing, and cloud-native delivery — with a bias for pragmatic outcomes."* ✨
+✨ *"Building Production AI systems, on top of scalable distributed backends and cloud-native infrastructure"* ✨
 
 </div>
