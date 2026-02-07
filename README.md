@@ -53,18 +53,18 @@
 
 ## 🚀 Experience Snapshot
 
-- **AI Engineer (Stealth Startup)** — building an **agentic layer for healthcare interoperability** *(Remote, Texas)*  
-- **AI Software Engineer Intern (CLD-9)** — shipped **AI-powered backend integrations + React delivery**, improved engagement & conversion  
-- **Software Engineer (Société Générale)** — built **Spring Boot microservices**, Kafka workflows, ELK debugging; performance + reliability improvements  
+- **AI Engineer (Stealth Startup)** : building an **agentic layer for healthcare interoperability** *(Remote, Texas)*  
+- **AI Software Engineer Intern (CLD-9)** : shipped **AI-powered backend integrations + React delivery**, improved engagement & conversion  
+- **Software Engineer (Société Générale)** : built **Spring Boot microservices**, Kafka workflows, ELK debugging; performance + reliability improvements  
 
 ---
 
 ## 🏆 Highlighted Projects
 
-- **GenAI Document Intelligence System (2nd Place Winner)** — Automated property record parsing using **Python + Azure Document Intelligence + Llama APIs**, deployed on **Azure Web Apps**
-- **MCP for Obsidian** — Built a **TypeScript MCP server** turning an Obsidian vault into a tool-driven knowledge assistant (query/summarize/cross-link/draft)
-- **Distributed Music Separation as a Service** — Master-worker system with **Python + Redis queue**, deployed on **AWS EKS + S3**, reduced latency by **45%**
-- **Trail Explorer (Full Stack)** — React + Flask app with Places + weather, deployed on **AWS ECS** with **CI/CD via GitHub Actions**
+- **GenAI Document Intelligence System (2nd Place Winner)** : Automated property record parsing using **Python + Azure Document Intelligence + Llama APIs**, deployed on **Azure Web Apps**
+- **MCP for Obsidian** : Built a **TypeScript MCP server** turning an Obsidian vault into a tool-driven knowledge assistant (query/summarize/cross-link/draft)
+- **Distributed Music Separation as a Service** : Master-worker system with **Python + Redis queue**, deployed on **AWS EKS + S3**, reduced latency by **45%**
+- **Trail Explorer (Full Stack)** : React + Flask app with Places + weather, deployed on **AWS ECS** with **CI/CD via GitHub Actions**
 
 ---
 
