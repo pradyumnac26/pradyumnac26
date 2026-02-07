@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pradyumna+Chippigiri+👋;Backend+%26+Distributed+Systems+Engineer;AI+Engineer+%7C+LLMs+%7C+RAG+%7C+Agentic+Workflows;Cloud-Native+%26+DevOps+Builder;Pragmatic+Systems+that+Solve+Real+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pradyumna+Chippigiri+👋)](https://git.io/typing-svg)
 
 ⚡ **T-shaped developer** with deep expertise in **backend distributed systems** (scalability, reliability, performance) and **AI engineering** (LLMs, RAG, agentic workflows), plus broad experience across **DevOps, cloud-native tooling, and frontend delivery**.  
 ✨ Always building pragmatic systems that solve problems that matter.
