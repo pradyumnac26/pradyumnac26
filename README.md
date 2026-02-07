@@ -12,6 +12,20 @@
 
 ---
 
+## 🤖 AI / LLM Engineering
+
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge&logo=readthedocs&logoColor=white)
+![AI%20Agents](https://img.shields.io/badge/AI%20Agents-0B5FFF?style=for-the-badge&logo=probot&logoColor=white)
+![Agentic%20Workflows](https://img.shields.io/badge/Agentic%20Workflows-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-6E56CF?style=for-the-badge&logo=protocols-dot-io&logoColor=white)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4D4D?style=for-the-badge&logo=dependabot&logoColor=white)
+![Vector%20DBs](https://img.shields.io/badge/Vector%20DBs-00C2FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Evaluation](https://img.shields.io/badge/LLM%20Eval-3DDC84?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+---
+
 ## ⚡ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
