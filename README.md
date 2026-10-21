@@ -1,4 +1,4 @@
-# Hi, I am Pradyumna Chippigiri
+# Hi, I am Pradyumna Chippigiri 👋
 
 I am currently working as a Senior Applied AI Engineer at Warner Bros. Discovery, where I am building agentic systems in the advertising ecosystem.
 
