@@ -8,7 +8,7 @@ Currently, I am studying the areas that intrigue me:
 - Inference Engineering and Optimizations
 - AI Safety and Research
 
-I am a Computer Science grad student at CU Boulder and an UG graduate from RVCE, India.
+I hold a Master's in Computer Science from the University of Colorado Boulder and a Bachelor's from RV College of Engineering, India.
 
 If you are working on anything interesting, then i would love to connect and exchange ideas. 
 
